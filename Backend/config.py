@@ -6,7 +6,7 @@ MAIL_SERVER ='smtp.gmail.com'
 MAIL_PORT = 465
 MAIL_USERNAME = 'flasksender1912@gmail.com'
 MAIL_DEFAULT_SENDER = 'flasksender1912@gmail.com'
-MAIL_PASSWORD = '12!@qwQW'
+MAIL_PASSWORD = '!!!!!!!!'
 MAIL_USE_TLS = False
 MAIL_USE_SSL = True
 
